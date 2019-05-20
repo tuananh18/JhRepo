@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "JhApp",
+    "packageName": "com.gmpm",
+    "packageFolder": "com/gmpm",
+    "serverPort": 8081,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "vi",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.0.1",
+    "jwtSecretKey": "Y2M3M2E3NDgyYWRjNDIzNWYyMTFhZThlMmIzMzc3YmY1ZjAyZTJlZTRmZjY3ZDYyZGVkYWQxZmI0YTIxZTMwNjMzNGEyZDBhYWE0OTRmM2Q1ZGZkODU4OWRiNDQxNmM5NTQwMWMyMTMxMjY3NzYyZTIwMjk2MjlhZDhiZGMyYWQ=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "tuananh18",
+  "repository-name": "JhRepo"
+}
